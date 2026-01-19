@@ -1,0 +1,11 @@
+:root
+
+headers {
+    font-size: 11px; text-align: center; 
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;    
+}
